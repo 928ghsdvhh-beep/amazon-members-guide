@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amazon-members-guide.pages.dev/sitemap.xml
