@@ -16,3 +16,8 @@
 /* Article-specific image previews */
 .directory-item img{aspect-ratio:3/2;height:90px;object-fit:cover}.article-picture img{object-position:center}.guide .article-picture,.content .article-picture{margin:24px 0}.content .article-picture img,.guide .article-picture img{height:235px}
 @media(max-width:750px){.directory-item img{height:82px}.content .article-picture img,.guide .article-picture img{height:175px}.article-picture figcaption{font-size:10px;line-height:1.7}}
+
+/* Review: long service labels and article tables on small screens. */
+.service-row > *, .directory-item > div {min-width:0}
+.article-body table {display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+@media(max-width:480px){.service-row h3{overflow-wrap:anywhere}.article-body th,.article-body td{min-width:100px}}
