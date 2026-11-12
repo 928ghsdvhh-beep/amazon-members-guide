@@ -1,0 +1,120 @@
+{
+  "policy": "One unique photo per article; the same article may reuse its own photo for its thumbnail, article header and social preview.",
+  "articles": {
+    "audible-after-cancel": {
+      "image": "/assets/articles/audible-after-cancel.webp",
+      "thumbnail": "/assets/articles/audible-after-cancel-thumb.webp",
+      "alt": "イヤホンケースを閉じて利用を見直すイメージ"
+    },
+    "audible-beginner": {
+      "image": "/assets/articles/audible-beginner.webp",
+      "thumbnail": "/assets/articles/audible-beginner-thumb.webp",
+      "alt": "スマホとイヤホンで本の朗読を聴き始めるイメージ"
+    },
+    "audible-commute": {
+      "image": "/assets/articles/audible-commute.webp",
+      "thumbnail": "/assets/articles/audible-commute-thumb.webp",
+      "alt": "電車の座席でイヤホンを使って本を聴くイメージ"
+    },
+    "audible-not-for-everyone": {
+      "image": "/assets/articles/audible-not-for-everyone.webp",
+      "thumbnail": "/assets/articles/audible-not-for-everyone-thumb.webp",
+      "alt": "音声と文字のどちらで本を読むか考えるイメージ"
+    },
+    "audible-not-understand": {
+      "image": "/assets/articles/audible-not-understand.webp",
+      "thumbnail": "/assets/articles/audible-not-understand-thumb.webp",
+      "alt": "本の音声を聴きながら内容をメモするイメージ"
+    },
+    "audible-offline": {
+      "image": "/assets/articles/audible-offline.webp",
+      "thumbnail": "/assets/articles/audible-offline-thumb.webp",
+      "alt": "機内での再生に備えたスマホとイヤホンのイメージ"
+    },
+    "audible-price": {
+      "image": "/assets/articles/audible-price.webp",
+      "thumbnail": "/assets/articles/audible-price-thumb.webp",
+      "alt": "電卓と手帳で音声サービスの費用を考えるイメージ"
+    },
+    "audible-sleep-timer": {
+      "image": "/assets/articles/audible-sleep-timer.webp",
+      "thumbnail": "/assets/articles/audible-sleep-timer-thumb.webp",
+      "alt": "就寝前のタイマー利用を考えるベッドサイドのイメージ"
+    },
+    "audible-vs-kindle": {
+      "image": "/assets/articles/audible-vs-kindle.webp",
+      "thumbnail": "/assets/articles/audible-vs-kindle-thumb.webp",
+      "alt": "電子書籍端末とヘッドホンで読む・聴くを比べるイメージ"
+    },
+    "audio-housework": {
+      "image": "/assets/articles/audio-housework.webp",
+      "thumbnail": "/assets/articles/audio-housework-thumb.webp",
+      "alt": "洗濯物をたたみながらイヤホンで音声を聴くイメージ"
+    },
+    "audiobook-vs-tts": {
+      "image": "/assets/articles/audiobook-vs-tts.webp",
+      "thumbnail": "/assets/articles/audiobook-vs-tts-thumb.webp",
+      "alt": "スマホの文字と音声による読み方を考えるイメージ"
+    },
+    "book-listening-app": {
+      "image": "/assets/articles/book-listening-app.webp",
+      "thumbnail": "/assets/articles/book-listening-app-thumb.webp",
+      "alt": "ベンチで本を聴くためのアプリを選ぶイメージ"
+    },
+    "cancel-trial": {
+      "image": "/assets/articles/cancel-trial.webp",
+      "thumbnail": "/assets/articles/cancel-trial-thumb.webp",
+      "alt": "カレンダーに無料体験の更新日を記録するイメージ"
+    },
+    "kindle-magazines": {
+      "image": "/assets/articles/kindle-magazines.webp",
+      "thumbnail": "/assets/articles/kindle-magazines-thumb.webp",
+      "alt": "タブレットで電子版の本や雑誌を読むイメージ"
+    },
+    "kindle-not-all-books": {
+      "image": "/assets/articles/kindle-not-all-books.webp",
+      "thumbnail": "/assets/articles/kindle-not-all-books-thumb.webp",
+      "alt": "本棚から読みたい本を探しているイメージ"
+    },
+    "kindle-phone": {
+      "image": "/assets/articles/kindle-phone.webp",
+      "thumbnail": "/assets/articles/kindle-phone-thumb.webp",
+      "alt": "スマホだけで電子書籍を読むイメージ"
+    },
+    "music-prime-vs-unlimited": {
+      "image": "/assets/articles/music-prime-vs-unlimited.webp",
+      "thumbnail": "/assets/articles/music-prime-vs-unlimited-thumb.webp",
+      "alt": "ヘッドホンで音楽を楽しむイメージ"
+    },
+    "prime-monthly-yearly": {
+      "image": "/assets/articles/prime-monthly-yearly.webp",
+      "thumbnail": "/assets/articles/prime-monthly-yearly-thumb.webp",
+      "alt": "月と年の予定を見て会費を比較するイメージ"
+    },
+    "prime-reading-vs-kindle": {
+      "image": "/assets/articles/prime-reading-vs-kindle.webp",
+      "thumbnail": "/assets/articles/prime-reading-vs-kindle-thumb.webp",
+      "alt": "本の選択肢を二つの本の束で表したイメージ"
+    },
+    "prime-video-difference": {
+      "image": "/assets/articles/prime-video-difference.webp",
+      "thumbnail": "/assets/articles/prime-video-difference-thumb.webp",
+      "alt": "自宅でテレビの動画を楽しむイメージ"
+    },
+    "prime-worth": {
+      "image": "/assets/articles/prime-worth.webp",
+      "thumbnail": "/assets/articles/prime-worth-thumb.webp",
+      "alt": "自宅で宅配便を受け取るイメージ"
+    },
+    "reading-no-time": {
+      "image": "/assets/articles/reading-no-time.webp",
+      "thumbnail": "/assets/articles/reading-no-time-thumb.webp",
+      "alt": "短い休憩に本を開くイメージ"
+    },
+    "student-eligibility": {
+      "image": "/assets/articles/student-eligibility.webp",
+      "thumbnail": "/assets/articles/student-eligibility-thumb.webp",
+      "alt": "大学の図書館で学ぶ学生のイメージ"
+    }
+  }
+}
