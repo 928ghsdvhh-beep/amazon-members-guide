@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://kurashi-subsc-guide.pages.dev/sitemap.xml
+
