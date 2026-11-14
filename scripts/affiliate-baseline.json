@@ -1,0 +1,89 @@
+{
+  "note": "Snapshot from main or its existing build before editorial changes; do not regenerate to hide advertising changes.",
+  "tracking_ids": [
+    "moon12-22"
+  ],
+  "protected_html_sha256": {
+    "about.html": [],
+    "index.html": [
+      "0d7cd36f3565e6fd1a09d0caace587677c5abef389453050b174e83d24d22222",
+      "15af75df4d43d704d4b6dde1980050ebd0711b02af100e1ce22e0fcfae45bb17",
+      "2b09f29aec534b3e1d9a2e1b70d37e327f62f8e28d288c53124fc57783c11891",
+      "9c430570d9da5b6a90b7ea3fd32b2d61f4642b0b8b2f695d7533512fb184da3b",
+      "b94dbd5a4a6d8bd083b9c0d4bb07c4d6cfd8644f7767bd9a0d634abe225a9f98"
+    ],
+    "404.html": [],
+    "privacy.html": [],
+    "guides.html": [],
+    "googled51db09eaf8187a0.html": [],
+    "articles/music-prime-vs-unlimited.html": [
+      "ffa9e01f558a1efa7cefb68a79c0c8d0a134daea1530b0fae8f183aa0de212aa"
+    ],
+    "articles/audible-not-understand.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/audible-commute.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/student-eligibility.html": [
+      "3475104299e46d7d4fba8f9f13572e6f22b804b58fac41d691661f6986ea6c65"
+    ],
+    "articles/audible-offline.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/cancel-trial.html": [
+      "de7412f55ffaa4c2940c877f211082cb4a3d0a475f45835b2c237f37cf109044"
+    ],
+    "articles/audible-beginner.html": [
+      "68780e3711db8a0b26b0d9b40d8657399d78e4a3c72e8caa8e2f6a6ea5beeefa"
+    ],
+    "articles/prime-video-difference.html": [
+      "de7412f55ffaa4c2940c877f211082cb4a3d0a475f45835b2c237f37cf109044"
+    ],
+    "articles/book-listening-app.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/audiobook-vs-tts.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/audible-sleep-timer.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/audible-not-for-everyone.html": [
+      "68780e3711db8a0b26b0d9b40d8657399d78e4a3c72e8caa8e2f6a6ea5beeefa"
+    ],
+    "articles/audible-price.html": [
+      "68780e3711db8a0b26b0d9b40d8657399d78e4a3c72e8caa8e2f6a6ea5beeefa"
+    ],
+    "articles/prime-worth.html": [
+      "de7412f55ffaa4c2940c877f211082cb4a3d0a475f45835b2c237f37cf109044"
+    ],
+    "articles/audible-after-cancel.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/audible-vs-kindle.html": [
+      "68780e3711db8a0b26b0d9b40d8657399d78e4a3c72e8caa8e2f6a6ea5beeefa"
+    ],
+    "articles/prime-monthly-yearly.html": [
+      "de7412f55ffaa4c2940c877f211082cb4a3d0a475f45835b2c237f37cf109044"
+    ],
+    "articles/prime-reading-vs-kindle.html": [
+      "0fd1a478e915f58e58e45308cb1d3ff0cacfe12e14e7fa412892fd8273209904"
+    ],
+    "articles/kindle-not-all-books.html": [
+      "0fd1a478e915f58e58e45308cb1d3ff0cacfe12e14e7fa412892fd8273209904"
+    ],
+    "articles/kindle-magazines.html": [
+      "0fd1a478e915f58e58e45308cb1d3ff0cacfe12e14e7fa412892fd8273209904"
+    ],
+    "articles/reading-no-time.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ],
+    "articles/kindle-phone.html": [
+      "0fd1a478e915f58e58e45308cb1d3ff0cacfe12e14e7fa412892fd8273209904"
+    ],
+    "articles/audio-housework.html": [
+      "4f764dc0c9d95b826559d2ca3031730c3f712b04716d7d6eae00d97568bc3353"
+    ]
+  }
+}
