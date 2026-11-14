@@ -1,0 +1,511 @@
+{
+  "site": "amazon-members-guide",
+  "pages": 28,
+  "indexable": 27,
+  "sitemap_urls": 27,
+  "issues": [],
+  "page_audit": [
+    {
+      "path": "about.html",
+      "title": "運営情報・広告ポリシー｜くらしのサブスク案内",
+      "h1": "運営情報・広告ポリシー",
+      "description": "サイト運営方針と広告表示について",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/about",
+      "noindex": false,
+      "text_characters": 386,
+      "html_bytes": 3069,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "index.html",
+      "title": "Amazonの会員サービスを比較｜くらしのサブスク案内",
+      "h1": "通勤中も、家事中も。<br>本を聴く時間に。",
+      "description": "通勤の30分、家事の合間、ひと息つく夜。読む・聴く・観る時間を楽しむためのサービス選びを、使い方と注意点から紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/",
+      "noindex": false,
+      "text_characters": 1567,
+      "html_bytes": 10888,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 15,
+      "affiliate_links": 5,
+      "images": 4,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "404.html",
+      "title": "ページが見つかりません｜くらしのサブスク案内",
+      "h1": "ページが見つかりませんでした",
+      "description": null,
+      "canonical": null,
+      "noindex": true,
+      "text_characters": 287,
+      "html_bytes": 2020,
+      "schema_types": [],
+      "internal_links": 4,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": false
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜くらしのサブスク案内",
+      "h1": "プライバシーポリシー",
+      "description": "個人情報とアクセス解析について",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/privacy",
+      "noindex": false,
+      "text_characters": 521,
+      "html_bytes": 3550,
+      "schema_types": [
+        "WebPage"
+      ],
+      "internal_links": 3,
+      "affiliate_links": 0,
+      "images": 0,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "guides.html",
+      "title": "本・読書・動画の使い方とサービス比較｜くらしのサブスク案内",
+      "h1": "使い方と選び方の読みもの",
+      "description": "本を聴くアプリ、スマホでの読書、読み放題、動画の追加料金など。23本の記事を、知りたいことから探せます。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/guides",
+      "noindex": false,
+      "text_characters": 2966,
+      "html_bytes": 20867,
+      "schema_types": [
+        "CollectionPage"
+      ],
+      "internal_links": 27,
+      "affiliate_links": 0,
+      "images": 23,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/music-prime-vs-unlimited.html",
+      "title": "Amazon Music PrimeとUnlimitedの違い｜料金・曲の選び方を比較｜くらしのサブスク案内",
+      "h1": "Amazon Music PrimeとUnlimitedの違い｜料金・曲の選び方を比較",
+      "description": "Amazon Music PrimeとUnlimitedの違いを、追加会費、シャッフル・オンデマンド再生、使う場面から比較。Primeでも曲を選べる場合がある点も説明します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/music-prime-vs-unlimited",
+      "noindex": false,
+      "text_characters": 2209,
+      "html_bytes": 12526,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-not-understand.html",
+      "title": "Audibleの内容が頭に入らないとき｜聞き流し・速度・本の選び方を見直す｜くらしのサブスク案内",
+      "h1": "Audibleの内容が頭に入らないとき｜聞き流し・速度・本の選び方を見直す",
+      "description": "Audibleを聴いても内容が残らないと感じる人へ。ながら聴きの場面、再生速度、作品との相性を切り分け、試す順番を提案します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-not-understand",
+      "noindex": false,
+      "text_characters": 2076,
+      "html_bytes": 12346,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-commute.html",
+      "title": "電車通勤の30分をどう使う？画面を見ずに本を聴く方法と準備｜くらしのサブスク案内",
+      "h1": "電車通勤の30分をどう使う？画面を見ずに本を聴く方法と準備",
+      "description": "電車通勤でスマホ以外の暇つぶしを探す人へ。座れる日・立つ日の使い分け、30分の使い方、Audibleの事前保存と本選びを紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-commute",
+      "noindex": false,
+      "text_characters": 2116,
+      "html_bytes": 12343,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/student-eligibility.html",
+      "title": "Prime Studentは誰が使える？対象の学校・学生確認・料金を整理｜くらしのサブスク案内",
+      "h1": "Prime Studentは誰が使える？対象の学校・学生確認・料金を整理",
+      "description": "Prime Studentを検討する人へ。大学・専門学校などの対象、高校生との違い、学生確認、月額・年額と体験終了後の条件を公式情報から説明します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/student-eligibility",
+      "noindex": false,
+      "text_characters": 2099,
+      "html_bytes": 12115,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-offline.html",
+      "title": "Audibleはオフラインで聴ける？ダウンロードと通信量の確認方法｜くらしのサブスク案内",
+      "h1": "Audibleはオフラインで聴ける？ダウンロードと通信量の確認方法",
+      "description": "電波の弱い電車や外出先でAudibleを聴きたい人へ。事前保存の手順、Wi-Fi設定、保存済みなのに再生できない場合の確認点を説明します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-offline",
+      "noindex": false,
+      "text_characters": 2202,
+      "html_bytes": 13010,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/cancel-trial.html",
+      "title": "Amazonサービスの無料体験で確認すること｜更新日・契約経路・解約｜くらしのサブスク案内",
+      "h1": "Amazonサービスの無料体験で確認すること｜更新日・契約経路・解約",
+      "description": "Audible・Kindle+・プライムなどの無料体験を始める前に。体験対象、終了後の料金、契約経路、アプリ削除と解約の違いをチェックリストで確認します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/cancel-trial",
+      "noindex": false,
+      "text_characters": 2138,
+      "html_bytes": 12723,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-beginner.html",
+      "title": "Audibleとは？本を聴く仕組み・料金・始め方をわかりやすく解説｜くらしのサブスク案内",
+      "h1": "Audibleとは？本を聴く仕組み・料金・始め方をわかりやすく解説",
+      "description": "Audibleを初めて知った人へ。本の朗読を聴くサービスの仕組み、2つのプラン、スマホでの始め方と無料体験の確認点を紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-beginner",
+      "noindex": false,
+      "text_characters": 2251,
+      "html_bytes": 13600,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/prime-video-difference.html",
+      "title": "Prime Videoで追加料金がかかるのはなぜ？見放題・レンタル・追加登録の違い｜くらしのサブスク案内",
+      "h1": "Prime Videoで追加料金がかかるのはなぜ？見放題・レンタル・追加登録の違い",
+      "description": "プライム会員なのに動画が有料と表示される理由を整理。会員特典、レンタル・購入、追加サブスクリプションの見分け方と契約確認を紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/prime-video-difference",
+      "noindex": false,
+      "text_characters": 2136,
+      "html_bytes": 12662,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/book-listening-app.html",
+      "title": "本を聞くアプリはどう選ぶ？朗読・読み上げ・ポッドキャストの違い｜くらしのサブスク案内",
+      "h1": "本を聞くアプリはどう選ぶ？朗読・読み上げ・ポッドキャストの違い",
+      "description": "本を聞くアプリを探す人へ。録音された朗読、スマホの読み上げ、ポッドキャストの違いと、Audibleを選ぶ前の確認項目を整理します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/book-listening-app",
+      "noindex": false,
+      "text_characters": 2226,
+      "html_bytes": 13331,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audiobook-vs-tts.html",
+      "title": "オーディオブックと読み上げ機能の違い｜スマホで本を聴く前に確認｜くらしのサブスク案内",
+      "h1": "オーディオブックと読み上げ機能の違い｜スマホで本を聴く前に確認",
+      "description": "Audibleなどのオーディオブックと、iPhoneなどのテキスト読み上げ機能を比較。音声の作り方、対応する本、費用と向く用途を整理します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audiobook-vs-tts",
+      "noindex": false,
+      "text_characters": 2188,
+      "html_bytes": 12945,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-sleep-timer.html",
+      "title": "Audibleのスリープタイマー設定｜寝落ちで再生が進むのを防ぐには｜くらしのサブスク案内",
+      "h1": "Audibleのスリープタイマー設定｜寝落ちで再生が進むのを防ぐには",
+      "description": "Audibleを寝る前に聴く人へ。タイマーの設定、停止位置を見失ったときの戻り方、延長機能や再生の準備を公式案内に基づいて説明します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-sleep-timer",
+      "noindex": false,
+      "text_characters": 2112,
+      "html_bytes": 12458,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-not-for-everyone.html",
+      "title": "Audibleが向かない人は？登録前に見たい5つの確認点｜くらしのサブスク案内",
+      "h1": "Audibleが向かない人は？登録前に見たい5つの確認点",
+      "description": "Audibleを使うか迷う人へ。図表の多い本、音声への集中、対象作品、利用頻度など、合わない可能性がある場面と確認方法を紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-not-for-everyone",
+      "noindex": false,
+      "text_characters": 1998,
+      "html_bytes": 12393,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-price.html",
+      "title": "Audibleの料金比較｜月額880円と1,500円は何が違う？｜くらしのサブスク案内",
+      "h1": "Audibleの料金比較｜月額880円と1,500円は何が違う？",
+      "description": "Audibleのスタンダード・プレミアムを料金、選べる本、退会後の扱いで比較。通常料金と無料体験、単品購入を分けて選び方を説明します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-price",
+      "noindex": false,
+      "text_characters": 2564,
+      "html_bytes": 14216,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 9,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/prime-worth.html",
+      "title": "Amazonプライムは月に何回使えば得？送料・動画・読書から考える｜くらしのサブスク案内",
+      "h1": "Amazonプライムは月に何回使えば得？送料・動画・読書から考える",
+      "description": "Amazonプライムの元が取れるかを、自分の注文と使いたい特典で確認。送料だけで回数を決められない理由と、会費の考え方を紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/prime-worth",
+      "noindex": false,
+      "text_characters": 2188,
+      "html_bytes": 12998,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-after-cancel.html",
+      "title": "Audibleは解約後も聴ける？聴き放題・毎月選ぶ本・単品購入の違い｜くらしのサブスク案内",
+      "h1": "Audibleは解約後も聴ける？聴き放題・毎月選ぶ本・単品購入の違い",
+      "description": "Audibleを解約すると本はどうなる？プレミアムの聴き放題、スタンダードで選んだ本、単品購入を分け、利用終了日と保存データの扱いを確認します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-after-cancel",
+      "noindex": false,
+      "text_characters": 2128,
+      "html_bytes": 12735,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audible-vs-kindle.html",
+      "title": "AudibleとKindle+の違い｜聴く本・読む本を使う場面から比較｜くらしのサブスク案内",
+      "h1": "AudibleとKindle+の違い｜聴く本・読む本を使う場面から比較",
+      "description": "AudibleとKindle+（旧Kindle Unlimited）を比較。本の形式、対象作品、料金の考え方、図表やメモの扱いから自分に合う方法を選びます。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audible-vs-kindle",
+      "noindex": false,
+      "text_characters": 2164,
+      "html_bytes": 12503,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/prime-monthly-yearly.html",
+      "title": "Amazonプライムは月額と年額どっち？何か月使うかで費用を比較｜くらしのサブスク案内",
+      "h1": "Amazonプライムは月額と年額どっち？何か月使うかで費用を比較",
+      "description": "Amazonプライムの月額600円・年額5,900円を、1～12か月の利用例で比較。月払いと年払いの選び方、追加料金が必要なサービスも整理します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/prime-monthly-yearly",
+      "noindex": false,
+      "text_characters": 2551,
+      "html_bytes": 13982,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 9,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/prime-reading-vs-kindle.html",
+      "title": "Prime ReadingとKindle Unlimitedの違い｜Kindle+との関係と選び方｜くらしのサブスク案内",
+      "h1": "Prime ReadingとKindle Unlimitedの違い｜Kindle+との関係と選び方",
+      "description": "Prime ReadingとKindle+（旧Kindle Unlimited）は何が違う？プライム会費に含まれる特典と別契約の読み放題を、対象本・費用・利用目的で比較します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/prime-reading-vs-kindle",
+      "noindex": false,
+      "text_characters": 2375,
+      "html_bytes": 12741,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/kindle-not-all-books.html",
+      "title": "Kindle Unlimitedで読めない本があるのはなぜ？Kindle+の対象を見分ける｜くらしのサブスク案内",
+      "h1": "Kindle Unlimitedで読めない本があるのはなぜ？Kindle+の対象を見分ける",
+      "description": "Kindle本なのに読み放題で読めない理由を整理。Kindle+（旧Kindle Unlimited）の対象表示、巻・雑誌の号、単品購入との違いを確認します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/kindle-not-all-books",
+      "noindex": false,
+      "text_characters": 2189,
+      "html_bytes": 12505,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/kindle-magazines.html",
+      "title": "Kindle Unlimitedで雑誌だけ読むのは得？最新号・対象表示と選び方｜くらしのサブスク案内",
+      "h1": "Kindle Unlimitedで雑誌だけ読むのは得？最新号・対象表示と選び方",
+      "description": "Kindle+（旧Kindle Unlimited）を雑誌目的で使いたい人へ。最新号・バックナンバー・紙版との違い、スマホでの見やすさと料金の比較方法を整理します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/kindle-magazines",
+      "noindex": false,
+      "text_characters": 2178,
+      "html_bytes": 12534,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/reading-no-time.html",
+      "title": "読書する時間がない人へ｜一日10分から本に触れる時間の作り方｜くらしのサブスク案内",
+      "h1": "読書する時間がない人へ｜一日10分から本に触れる時間の作り方",
+      "description": "読書したいのに時間がない人へ。読む場所・本の選び方・音声の使い分けを、平日の具体例と無理なく続ける手順で紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/reading-no-time",
+      "noindex": false,
+      "text_characters": 2151,
+      "html_bytes": 12422,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/kindle-phone.html",
+      "title": "Kindleはスマホだけで読める？専用端末なしで始める手順と注意点｜くらしのサブスク案内",
+      "h1": "Kindleはスマホだけで読める？専用端末なしで始める手順と注意点",
+      "description": "Kindle端末を買わずに本を読みたい人へ。スマホの無料アプリ、本の購入、Kindle+の契約を分けて、始め方と雑誌・漫画の読みやすさを確認します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/kindle-phone",
+      "noindex": false,
+      "text_characters": 2316,
+      "html_bytes": 12747,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    },
+    {
+      "path": "articles/audio-housework.html",
+      "title": "家事中に聴くものは？音楽・ラジオ・本の朗読を作業別に選ぶ｜くらしのサブスク案内",
+      "h1": "家事中に聴くものは？音楽・ラジオ・本の朗読を作業別に選ぶ",
+      "description": "家事中に何を聴くか迷う人へ。洗濯・片付け・調理など場面ごとの選び方と、本の朗読を途中で止めやすくする準備を紹介します。",
+      "canonical": "https://kurashi-subsc-guide.pages.dev/articles/audio-housework",
+      "noindex": false,
+      "text_characters": 2074,
+      "html_bytes": 12537,
+      "schema_types": [
+        null
+      ],
+      "internal_links": 8,
+      "affiliate_links": 1,
+      "images": 1,
+      "review_summary_added": false,
+      "reachable_from_home": true
+    }
+  ]
+}

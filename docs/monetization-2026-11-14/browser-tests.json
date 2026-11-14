@@ -1,0 +1,1908 @@
+{
+  "note": "Local Chromium; external images, ads and analytics blocked. This verifies layout, not live network speed or affiliate attribution.",
+  "viewports": [
+    {
+      "repo": "amazon-members-guide",
+      "path": "about.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "about.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "about.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "index.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "index.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "index.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "404.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "404.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "404.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "privacy.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "privacy.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "privacy.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "guides.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "guides.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "guides.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/music-prime-vs-unlimited.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/music-prime-vs-unlimited.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/music-prime-vs-unlimited.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-understand.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 275.359375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 275.359375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-understand.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 275.359375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 275.359375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-understand.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-commute.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 235.34375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 235.34375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-commute.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 235.34375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 235.34375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-commute.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/student-eligibility.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/student-eligibility.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/student-eligibility.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-offline.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 186.28125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 186.28125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-offline.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 186.28125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 186.28125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-offline.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/cancel-trial.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/cancel-trial.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/cancel-trial.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-beginner.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-beginner.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-beginner.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-video-difference.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 166.203125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 166.203125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-video-difference.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 166.203125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 166.203125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-video-difference.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/book-listening-app.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 158.609375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 158.609375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/book-listening-app.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 158.609375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 158.609375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/book-listening-app.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audiobook-vs-tts.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 182.484375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 182.484375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audiobook-vs-tts.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 182.484375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 182.484375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audiobook-vs-tts.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-sleep-timer.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 255.546875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 255.546875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-sleep-timer.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 255.546875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 255.546875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-sleep-timer.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-for-everyone.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-for-everyone.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-not-for-everyone.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-price.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-price.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-price.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-worth.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-worth.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-worth.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-after-cancel.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 151.453125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 151.453125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-after-cancel.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 151.453125
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 151.453125
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-after-cancel.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-vs-kindle.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-vs-kindle.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audible-vs-kindle.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-monthly-yearly.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 195.9375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 195.9375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-monthly-yearly.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 195.9375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 195.9375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-monthly-yearly.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-reading-vs-kindle.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 166.421875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 166.421875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-reading-vs-kindle.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 166.421875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 166.421875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/prime-reading-vs-kindle.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-not-all-books.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 238.875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 238.875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-not-all-books.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 238.875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 238.875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-not-all-books.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-magazines.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 290.71875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 290.71875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-magazines.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 290.71875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 290.71875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-magazines.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/reading-no-time.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 153.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 153.046875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/reading-no-time.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 153.046875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 153.046875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/reading-no-time.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-phone.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 322.796875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 322.796875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-phone.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 322.796875
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 322.796875
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/kindle-phone.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audio-housework.html",
+      "width": 360,
+      "scrollWidth": 360,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 186.34375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 186.34375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audio-housework.html",
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": [
+        {
+          "tag": "TABLE",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "THEAD",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TH",
+          "cls": "",
+          "width": 186.34375
+        },
+        {
+          "tag": "TBODY",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        },
+        {
+          "tag": "TD",
+          "cls": "",
+          "width": 186.34375
+        },
+        {
+          "tag": "TR",
+          "cls": "",
+          "width": 460
+        }
+      ],
+      "images": 0
+    },
+    {
+      "repo": "amazon-members-guide",
+      "path": "articles/audio-housework.html",
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": [],
+      "images": 0
+    }
+  ],
+  "smoke": []
+}

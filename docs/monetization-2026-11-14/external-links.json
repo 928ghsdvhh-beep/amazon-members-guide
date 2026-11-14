@@ -1,0 +1,293 @@
+[
+  {
+    "url": "https://www.cloudflare.com/privacypolicy/",
+    "status": 200,
+    "final_url": "https://www.cloudflare.com/privacypolicy/",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "shigoto-pc-guide/privacy/index.html",
+      "amazon-members-guide/privacy.html"
+    ]
+  },
+  {
+    "url": "https://developers.cloudflare.com/web-analytics/",
+    "status": 200,
+    "final_url": "https://developers.cloudflare.com/web-analytics/",
+    "content_type": "text/html",
+    "pages": [
+      "amazon-members-guide/privacy.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/guide/amazon-music-unlimited-family-plan",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/guide/amazon-music-unlimited-family-plan",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/music-prime-vs-unlimited.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/guide/how-to-make-amazon-music-playlist",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/guide/how-to-make-amazon-music-playlist",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/music-prime-vs-unlimited.html"
+    ]
+  },
+  {
+    "url": "https://music.amazon.co.jp/lp/freemusic",
+    "status": 200,
+    "final_url": "https://music.amazon.co.jp/lp/freemusic",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/music-prime-vs-unlimited.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/listen-in-the-app",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/listen-in-the-app",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-not-understand.html",
+      "amazon-members-guide/articles/audible-commute.html",
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/book-listening-app.html",
+      "amazon-members-guide/articles/audiobook-vs-tts.html",
+      "amazon-members-guide/articles/audible-sleep-timer.html",
+      "amazon-members-guide/articles/audible-not-for-everyone.html",
+      "amazon-members-guide/articles/audible-vs-kindle.html",
+      "amazon-members-guide/articles/reading-no-time.html",
+      "amazon-members-guide/articles/audio-housework.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/learn-about-premium-plus",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/learn-about-premium-plus",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-not-understand.html",
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/book-listening-app.html",
+      "amazon-members-guide/articles/audible-not-for-everyone.html",
+      "amazon-members-guide/articles/audible-price.html",
+      "amazon-members-guide/articles/audible-after-cancel.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/download-titles",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/download-titles",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-commute.html",
+      "amazon-members-guide/articles/audible-offline.html",
+      "amazon-members-guide/articles/audio-housework.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/amazon-prime/what-are-the-benefits-of-amazon-prime-student",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/amazon-prime/what-are-the-benefits-of-amazon-prime-student",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/student-eligibility.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/amazon-prime/prime-membership-seven-benefits",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/amazon-prime/prime-membership-seven-benefits",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/student-eligibility.html",
+      "amazon-members-guide/articles/prime-worth.html",
+      "amazon-members-guide/articles/prime-monthly-yearly.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/manage-download-settings?language=ja",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/manage-download-settings",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-offline.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/listen-on-a-browser?language=ja",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/listen-on-a-browser",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-offline.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/cancel-membership",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/cancel-membership",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-offline.html",
+      "amazon-members-guide/articles/cancel-trial.html",
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/audible-not-for-everyone.html",
+      "amazon-members-guide/articles/audible-price.html",
+      "amazon-members-guide/articles/audible-after-cancel.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/learn-about-standard-plan",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/learn-about-standard-plan",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/cancel-trial.html",
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/book-listening-app.html",
+      "amazon-members-guide/articles/audible-not-for-everyone.html",
+      "amazon-members-guide/articles/audible-price.html",
+      "amazon-members-guide/articles/audible-after-cancel.html"
+    ]
+  },
+  {
+    "url": "https://www.primevideo.com/-/ja/region/na/help?csTools=164&nodeId=TLKV1OADtdHSPuczvv",
+    "status": 200,
+    "final_url": "https://www.primevideo.com/-/ja/region/fe/help?csTools=164&nodeId=TLKV1OADtdHSPuczvv&language=ja",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/cancel-trial.html",
+      "amazon-members-guide/articles/prime-video-difference.html",
+      "amazon-members-guide/articles/prime-worth.html"
+    ]
+  },
+  {
+    "url": "https://www.audible.co.jp/",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/audible-price.html",
+      "amazon-members-guide/articles/audible-vs-kindle.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9C%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-desktop?language=ja",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9C%E3%82%A4%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-desktop",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-beginner.html",
+      "amazon-members-guide/articles/book-listening-app.html",
+      "amazon-members-guide/articles/audiobook-vs-tts.html"
+    ]
+  },
+  {
+    "url": "https://www.primevideo.com/help/?language=ja_jp&nodeId=GGQ38JL9EK3QN6KN",
+    "status": 200,
+    "final_url": "https://www.primevideo.com/region/fe/help/?language=ja_jp&nodeId=GGQ38JL9EK3QN6KN",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/prime-video-difference.html"
+    ]
+  },
+  {
+    "url": "https://support.apple.com/ja-jp/guide/iphone/iph96b214f0/27/ios/27",
+    "status": 200,
+    "final_url": "https://support.apple.com/ja-jp/guide/iphone/iph96b214f0/27/ios/27",
+    "content_type": "text/html;charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/audiobook-vs-tts.html"
+    ]
+  },
+  {
+    "url": "https://help.audible.co.jp/s/article/use-timer?language=ja",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/help/article/use-timer",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-sleep-timer.html",
+      "amazon-members-guide/articles/audio-housework.html"
+    ]
+  },
+  {
+    "url": "https://www.audible.co.jp/contactus",
+    "status": 200,
+    "final_url": "https://www.audible.co.jp/contactus",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-price.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/amazon-prime/amazon-delivered-record-numbers-of-items-through-same-or-next-day-delivery-in-japan-2024",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/amazon-prime/amazon-delivered-record-numbers-of-items-through-same-or-next-day-delivery-in-japan-2024",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/prime-worth.html",
+      "amazon-members-guide/articles/prime-monthly-yearly.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/guide/start-a-new-reading-habit-with-amazons-prime-reading",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/guide/start-a-new-reading-habit-with-amazons-prime-reading",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/prime-worth.html",
+      "amazon-members-guide/articles/prime-reading-vs-kindle.html"
+    ]
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/guide/how-to-buy-kindle-books",
+    "status": 200,
+    "final_url": "https://www.aboutamazon.jp/news/guide/how-to-buy-kindle-books",
+    "content_type": "text/html; charset=utf-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-vs-kindle.html",
+      "amazon-members-guide/articles/prime-reading-vs-kindle.html",
+      "amazon-members-guide/articles/kindle-not-all-books.html",
+      "amazon-members-guide/articles/kindle-magazines.html",
+      "amazon-members-guide/articles/kindle-phone.html"
+    ]
+  },
+  {
+    "url": "https://kdp.amazon.co.jp/ja_JP/help/topic/G201537300",
+    "status": 200,
+    "final_url": "https://kdp.amazon.co.jp/ja_JP/help/topic/G201537300",
+    "content_type": "text/html;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/audible-vs-kindle.html",
+      "amazon-members-guide/articles/prime-reading-vs-kindle.html",
+      "amazon-members-guide/articles/kindle-not-all-books.html",
+      "amazon-members-guide/articles/kindle-magazines.html"
+    ]
+  },
+  {
+    "url": "https://apps.apple.com/jp/app/amazon-kindle/id302584613",
+    "status": 200,
+    "final_url": "https://apps.apple.com/jp/app/amazon-kindle/id302584613",
+    "content_type": "text/html",
+    "pages": [
+      "amazon-members-guide/articles/kindle-not-all-books.html",
+      "amazon-members-guide/articles/kindle-magazines.html",
+      "amazon-members-guide/articles/reading-no-time.html",
+      "amazon-members-guide/articles/kindle-phone.html"
+    ]
+  },
+  {
+    "url": "https://read.amazon.co.jp/landing",
+    "status": 200,
+    "final_url": "https://read.amazon.co.jp/landing",
+    "content_type": "text/html;iso-8859-1=null;charset=UTF-8",
+    "pages": [
+      "amazon-members-guide/articles/kindle-phone.html"
+    ]
+  }
+]
