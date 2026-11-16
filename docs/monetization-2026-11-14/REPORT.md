@@ -1,6 +1,15 @@
 # amazon-members-guide 収益化改善報告（2026年11月14日）
 
-作業ブランチ：`improve/monetization-2026-11-14`。mainへのマージ・本番公開は未実施です。
+## 2026年11月16日 横断確認追補
+
+確認対象main：`c9d892a5b4761f63a335990c5b5b23ec9fe78f8a`。11月14日の改善PR #1 はマージ済み。本番公開の成否はマージから推定せず未確認とします。以下の旧本文にある「未マージ・未公開」は作業当時の記録です。
+
+タグ付きAmazonリンク28件はmoon12-22。23記事のArticle・BreadcrumbListは@graph内に存在。旧台帳のNoneは抽出漏れ。canonical・robotsのホストはkurashi-subsc-guide.pages.devで統一されているが、正式配信先との照合は未確認。
+
+優先確認：1. Cloudflare配信コミット・出力先と公開HTML/robots/sitemap/404の照合。2. 商品一致・広告管理画面の有効条件。3. Search Console取得・除外理由と広告クリック記録の比較。GitHub上の静的検証は公開応答や成果計測の保証ではありません。
+
+
+作業ブランチ：`improve/monetization-2026-11-14`。以下は2026年11月14日の作業時点の記録です。現在の状態は冒頭の追補を参照。
 既存サイトの修正です。公開中のデザイン、広告コード、Tracking ID、解析IDを保持。順位・AIO引用・成果発生は検証できていません。
 
 ## 優先問題と変更
@@ -52,29 +61,29 @@ Audible料金・プライム月額年額の2記事で申込時のプラン照合
 | `404.html` | noindex | 287 | 4 | 0 |  |
 | `privacy.html` | index許可 | 521 | 3 | 0 | WebPage |
 | `guides.html` | index許可 | 2966 | 27 | 0 | CollectionPage |
-| `articles/music-prime-vs-unlimited.html` | index許可 | 2209 | 8 | 1 | None |
-| `articles/audible-not-understand.html` | index許可 | 2076 | 8 | 1 | None |
-| `articles/audible-commute.html` | index許可 | 2116 | 8 | 1 | None |
-| `articles/student-eligibility.html` | index許可 | 2099 | 8 | 1 | None |
-| `articles/audible-offline.html` | index許可 | 2202 | 8 | 1 | None |
-| `articles/cancel-trial.html` | index許可 | 2138 | 8 | 1 | None |
-| `articles/audible-beginner.html` | index許可 | 2251 | 8 | 1 | None |
-| `articles/prime-video-difference.html` | index許可 | 2136 | 8 | 1 | None |
-| `articles/book-listening-app.html` | index許可 | 2226 | 8 | 1 | None |
-| `articles/audiobook-vs-tts.html` | index許可 | 2188 | 8 | 1 | None |
-| `articles/audible-sleep-timer.html` | index許可 | 2112 | 8 | 1 | None |
-| `articles/audible-not-for-everyone.html` | index許可 | 1998 | 8 | 1 | None |
-| `articles/audible-price.html` | index許可 | 2564 | 9 | 1 | None |
-| `articles/prime-worth.html` | index許可 | 2188 | 8 | 1 | None |
-| `articles/audible-after-cancel.html` | index許可 | 2128 | 8 | 1 | None |
-| `articles/audible-vs-kindle.html` | index許可 | 2164 | 8 | 1 | None |
-| `articles/prime-monthly-yearly.html` | index許可 | 2551 | 9 | 1 | None |
-| `articles/prime-reading-vs-kindle.html` | index許可 | 2375 | 8 | 1 | None |
-| `articles/kindle-not-all-books.html` | index許可 | 2189 | 8 | 1 | None |
-| `articles/kindle-magazines.html` | index許可 | 2178 | 8 | 1 | None |
-| `articles/reading-no-time.html` | index許可 | 2151 | 8 | 1 | None |
-| `articles/kindle-phone.html` | index許可 | 2316 | 8 | 1 | None |
-| `articles/audio-housework.html` | index許可 | 2074 | 8 | 1 | None |
+| `articles/music-prime-vs-unlimited.html` | index許可 | 2209 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-not-understand.html` | index許可 | 2076 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-commute.html` | index許可 | 2116 | 8 | 1 | Article, BreadcrumbList |
+| `articles/student-eligibility.html` | index許可 | 2099 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-offline.html` | index許可 | 2202 | 8 | 1 | Article, BreadcrumbList |
+| `articles/cancel-trial.html` | index許可 | 2138 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-beginner.html` | index許可 | 2251 | 8 | 1 | Article, BreadcrumbList |
+| `articles/prime-video-difference.html` | index許可 | 2136 | 8 | 1 | Article, BreadcrumbList |
+| `articles/book-listening-app.html` | index許可 | 2226 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audiobook-vs-tts.html` | index許可 | 2188 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-sleep-timer.html` | index許可 | 2112 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-not-for-everyone.html` | index許可 | 1998 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-price.html` | index許可 | 2564 | 9 | 1 | Article, BreadcrumbList |
+| `articles/prime-worth.html` | index許可 | 2188 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-after-cancel.html` | index許可 | 2128 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audible-vs-kindle.html` | index許可 | 2164 | 8 | 1 | Article, BreadcrumbList |
+| `articles/prime-monthly-yearly.html` | index許可 | 2551 | 9 | 1 | Article, BreadcrumbList |
+| `articles/prime-reading-vs-kindle.html` | index許可 | 2375 | 8 | 1 | Article, BreadcrumbList |
+| `articles/kindle-not-all-books.html` | index許可 | 2189 | 8 | 1 | Article, BreadcrumbList |
+| `articles/kindle-magazines.html` | index許可 | 2178 | 8 | 1 | Article, BreadcrumbList |
+| `articles/reading-no-time.html` | index許可 | 2151 | 8 | 1 | Article, BreadcrumbList |
+| `articles/kindle-phone.html` | index許可 | 2316 | 8 | 1 | Article, BreadcrumbList |
+| `articles/audio-housework.html` | index許可 | 2074 | 8 | 1 | Article, BreadcrumbList |
 
 ## 再実行・差分の確認
 
