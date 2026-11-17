@@ -21,3 +21,10 @@
 .service-row > *, .directory-item > div {min-width:0}
 .article-body table {display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 @media(max-width:480px){.service-row h3{overflow-wrap:anywhere}.article-body th,.article-body td{min-width:100px}}
+/* Keep each existing article image alongside its introduction at a readable size. */
+.article-intro-layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:24px;align-items:start;margin:24px 0}
+.article-intro-layout .article-picture,.article-intro-layout .article-intro{margin:0}
+.article-intro-layout .article-picture img{height:auto;width:100%;aspect-ratio:3/2;border-radius:10px;object-fit:cover}
+.article-intro-layout .article-intro{font-size:15px;line-height:1.95}
+.article-intro-layout .article-picture figcaption{text-align:left}
+@media(max-width:600px){.article-intro-layout{display:flow-root;margin:20px 0}.article-intro-layout .article-picture{float:left;width:112px;margin:3px 16px 8px 0}.article-intro-layout .article-picture img{height:auto;aspect-ratio:3/2;border-radius:7px}.article-intro-layout .article-picture figcaption{font-size:9px;line-height:1.6}.article-intro-layout .article-intro{font-size:15px;line-height:2}}
